@@ -1,5 +1,5 @@
 {
-  "name": "excel-to-mongo",
+  "name": "xlsx-to-mongo",
   "version": "1.0.1",
   "description": "Import multi excel to mongodb.",
   "main": "index.js",
