@@ -8,6 +8,7 @@ npm install xlsx-to-mongo
 ### 说明
 
     * 目录可自定义
+    * 如果没有输入密码，连接的数据库地址为mongodb://`${host}`:`${port}`
     * 查重（如果Excel表中的第一条存在数据库中，那么，这个Excel表将不会导入）
 
 ### example
