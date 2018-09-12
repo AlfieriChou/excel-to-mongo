@@ -1,6 +1,6 @@
 {
   "name": "xlsx-to-mongo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Import multi excel to mongodb.",
   "main": "index.js",
   "scripts": {
