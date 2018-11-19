@@ -1,5 +1,7 @@
 # excel-to-mongo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AlfieriChou/excel-to-mongo.svg)](https://greenkeeper.io/)
+
 ### install
 ```bash
 npm install xlsx-to-mongo
